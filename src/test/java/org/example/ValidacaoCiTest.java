@@ -6,6 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class ValidacaoCiTest {
     @Test
     void somaNumeros() {
-        assertEquals(5, 2 + 2);
+        assertEquals(4, 2 + 2);
     }
 }
